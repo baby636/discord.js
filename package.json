@@ -71,7 +71,7 @@
     "husky": "^4.2.5",
     "jest": "^26.4.0",
     "json-filter-loader": "^1.0.0",
-    "lint-staged": "^10.2.11",
+    "lint-staged": "^16.0.0",
     "prettier": "^2.0.5",
     "terser-webpack-plugin": "^4.1.0",
     "tslint": "^6.1.3",
